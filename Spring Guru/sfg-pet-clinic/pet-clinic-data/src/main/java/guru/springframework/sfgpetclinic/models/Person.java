@@ -1,4 +1,4 @@
-package gur.springframework.sfgpetclinic.models;
+package guru.springframework.sfgpetclinic.models;
 
 import org.springframework.lang.NonNull;
 
